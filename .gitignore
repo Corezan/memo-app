@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -22,3 +23,20 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+=======
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# local env files
+.env
+.env.local
+.env.*.local
+
+# system / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+>>>>>>> 97d405af755fd6ca037c076daffd26ff6bffec4a
